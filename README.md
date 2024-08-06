@@ -7,4 +7,4 @@ Trade Brains: https://tradebrains.in
 Available on both Web and App (Android, iOS)
 
 Other Websites:
-FinGrad : joinfingrad.com
+FinGrad : https://joinfingrad.com
